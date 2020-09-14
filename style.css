@@ -74,26 +74,13 @@ a{
 }
 
 .cmd-input{
-    display: inline-block;
-    flex: 1;
-    overflow: hidden;
-    resize: both;
-    min-height: 2.2rem;
-    max-height: 7rem;
-    /* line-height: 20px; */
-    /* width: 5rem;
-    min-height: 1.4rem;
-    overflow: hidden;
-    resize: both; */
-    background-color: transparent;
-    caret-color: greenyellow;
-    border: none;
-    line-height: 2.4rem;
-    /* color: transparent; */
-    /* text-shadow: 0px 0px 0.4px #fff; */
-    margin-left: .4rem;
+    line-height: 2rem;
+    margin-left: .3rem;
 }
 
-.cmd-input:focus{
-    outline: none;
+.caret{
+    background-color: #000;
+    margin-left: .3rem;
+    margin-bottom: .3rem;
+    padding: .05rem .4rem;
 }
