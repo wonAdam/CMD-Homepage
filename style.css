@@ -82,7 +82,6 @@ a{
 
 .caret{
     background-color: #000;
-    margin-left: .3rem;
-    margin-bottom: .3rem;
+    margin: .15rem .4rem;
     padding: 0.8rem .4rem;
 }
