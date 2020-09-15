@@ -32,6 +32,7 @@ body{
     color: #fff;
     display: flex;
     flex-direction: column;
+    box-shadow: 4rem 3rem 2rem rgba(0, 0, 0, 0.5);
 }
 
 #window-header{
